@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -73,3 +74,6 @@ via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilitie
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+=======
+# NTNserver
+>>>>>>> afdf609c40ec88835fdf380455220fcac6ad95db
